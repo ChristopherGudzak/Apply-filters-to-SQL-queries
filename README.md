@@ -2,8 +2,8 @@
 
 <h2>Simulated Scenario Description</h2>
  My organization is working to make their system more secure. It is my job to ensure the system
- is safe, investigate a l potential security issues, and update employee computers as needed.
- The folowing steps provide examples of how I used SQL with lters to perform
+ is safe, investigate potential security issues, and update employee computers as needed.
+ The folowing steps provide examples of how I used SQL with filters to perform
  security-related tasks.
 <br />
 
@@ -27,7 +27,7 @@
 <img src="https://imgur.com/8nT5XzG.png" />
 <br />
 <br />
-<img src="https://imgur.com/xRFSSVo.png" />
+<img src="https://imgur.com/p27swmU.png" />
 <br />
 <br />
 <img src="https://imgur.com/xRFSSVo.png" />
