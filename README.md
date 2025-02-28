@@ -17,10 +17,10 @@
 
 - <b>Practical training environment labs (Google)</b>
 
-<!--
-
 <h2>Walk-through:</h2>
+[Walk-through scenario --->] (https://github.com/ChristopherGudzak/Apply-filters-to-SQL-queries/blob/main/Apply%20filters%20to%20SQL%20queries.pdf)
 
+<!--
 <p align="center">
 
 <img src="https://imgur.com/JkOIn0o.png" />
