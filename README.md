@@ -17,6 +17,8 @@
 
 - <b>Practical training environment labs (Google)</b>
 
+<!--
+
 <h2>Walk-through:</h2>
 
 <p align="center">
@@ -41,3 +43,5 @@
 <br />
 <img src="https://imgur.com/s8XTFVq.png" />
 </p>
+
+-->
